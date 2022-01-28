@@ -1,4 +1,4 @@
-const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+const sleep = (ms) => new Promise
 
 (async () => {
     const box = prompt('What box do you want to open? (EXAMPLE: Space)');
